@@ -19,4 +19,3 @@ info thread
 4. go to a thread
 thread 3
 
-
