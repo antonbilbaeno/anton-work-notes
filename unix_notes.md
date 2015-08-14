@@ -12,3 +12,7 @@ netstat -l
 netstat -lp  
 netstat -lpn  
 
+##Renewing DHCP?
+dhclient -r  
+sudo dhclient  
+
