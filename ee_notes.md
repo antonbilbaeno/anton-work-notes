@@ -13,3 +13,10 @@ Tented Vias
 -Tented vias need to be small enough for the soldermask to bridge the drill hole
 -Encroached vias only cover the annular ring and can be as big or small as needed.
 -Plated (or filled) vias are always the best choice, though expensive
+
+Stencil Aperture
+-Aspect Ratio:
+--laser-cut stencils >0.66
+--electroform and NicAlloy stencils >0.55
+--electroform and NicAlloy with nanocoat > 0.5
+--electroform with nanocoat >0.43
