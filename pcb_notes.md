@@ -1,4 +1,4 @@
 #PCB Design Checklist
-## Surface Mount
-Using pads at a pitch of less than 0.65mm?
+## Last minute checks
+Using pads at a pitch of less than 0.65mm? <br>
 -Require ENIG finish
