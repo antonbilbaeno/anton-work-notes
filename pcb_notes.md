@@ -5,7 +5,15 @@
 3. Define min. via annular ring
 --> Using all of these requirements, pick a manufacturer.
 <-- Or, pick a manufacturer first and use their requirements.
-
+- - -
+## Board Finishes
+1. HASL - One of the most common finishes, Hot Air Solder Leveling is cheap.
+2. ENIG - Electroless nickel immersion gold consist of an electroless nickel plating covered with a thin layer of immersion gold. The gold protects the nickel from oxidation.
+  - ENIG is superior in:
+    1. flatness (for applying stencils, placing BGAs and other small flat, leadless packages, flatness is extremely helpful)
+    2. oxidation
+    3. untreated membrane switches and contact points
+- - -
 ## Last minute checks
 Using pads at a pitch of less than 0.65mm? <br>
 -Require ENIG finish
