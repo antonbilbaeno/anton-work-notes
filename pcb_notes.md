@@ -14,6 +14,12 @@
     2. oxidation
     3. untreated membrane switches and contact points
 - - -
+## Silkscreen
+1. Make sure silkscreen is mirrored on bottom side
+2. Always vector font
+3. Check minimum silkscreen thickness/ratio/width
+    - Depends on mfr, but ~10 mil line thickness is a good start
 ## Last minute checks
 Using pads at a pitch of less than 0.65mm? <br>
 -Require ENIG finish
+
