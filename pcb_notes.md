@@ -19,6 +19,7 @@
 2. Always vector font
 3. Check minimum silkscreen thickness/ratio/width
     - Depends on mfr, but ~10 mil line thickness is a good start
+- - -
 ## Last minute checks
 Using pads at a pitch of less than 0.65mm? <br>
 -Require ENIG finish
