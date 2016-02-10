@@ -33,3 +33,6 @@ j - deal with bzipped file
 f - read from a file, rather than a tape device  
 "tar --help" will give you more options and info  
 
+##Bash scripting
+- Most modern Linux distributions encourage a practice in which each user has a specific directory for the programs he/she personally uses. This directory is called bin and is a subdirectory of your home directory.
+- Create this directory in your home folder (i.e. ~/) and add this directory to your .bash_profile.
