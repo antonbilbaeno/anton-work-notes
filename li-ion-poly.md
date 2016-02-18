@@ -3,7 +3,7 @@
 _from_ http://batteryuniversity.com/learn/article/charging_lithium_ion_batteries
 
 * Turn off while charging
-  * A portable device should be turned off while charging.
+  * A portable device should be turned off while charging. This is to prevent the circuit that the battery is powering from drawing current while the battery is charging.
   * The load of the device (known as a __parasitic load__) will confuse the charger by drawing current and preventing the battery from reaching the __saturation stage__.
     * A battery may be close to or fully charged, but the __parasitic load__ will prompt a continued charge, causing stress.
 
