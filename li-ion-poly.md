@@ -13,12 +13,12 @@ _from_ http://batteryuniversity.com/learn/article/charging_lithium_ion_batteries
   
 * Charge rate
   * Increasing the charge current does not linearly cause the battery to charger faster.
-    * The battery may reach peak voltage faster, but the saturation charge time will be increased as well.
+    * The battery may reach __peak voltage__ faster, but the __saturation charge__ time will be increased as well.
   * A high current charge can be used to fill the battery to ~70% at a faster rate.
 
 * Is a full charge required?
   * Li-ion batteries do not need to be fully charged (unlike lead-acid batteries).
     * There are no benefits to a full charge, besides a longer runtime for that single cycle.
     * In fact, it is better not to fully charge the battery because a higher voltage stresses the battery.
-  * Choosing a lower voltage threshold, or eliminating the saturation charge prolongs battery life.
+  * Choosing a lower __voltage threshold__, or eliminating the __saturation charge__ prolongs battery life.
   * To achieve maximum runtimes, most consumer devices choose a full charge over providing ideal conditions for battery life.
